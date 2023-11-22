@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "revision" : "f222cbdf325885926566172f6f5f06af95473158",
+        "version" : "5.6.0"
+      }
+    },
+    {
+      "identity" : "universekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PXScope/UniverseKit.git",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "cfcee7872a7960ecb62e2c73ad8e84ee987dcd76"
+      }
+    }
+  ],
+  "version" : 2
+}
